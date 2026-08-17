@@ -1,5 +1,5 @@
 # Waypoint — Trip Planner (Map & Route Optimization core)
-
+ 
 A multi-stop trip planner: add locations, get the shortest visiting order automatically
 (TSP), see it on a live map, and get real distance/time for driving, walking, or cycling —
 all on **free, keyless APIs** (plus one optional free key for real road routing).
