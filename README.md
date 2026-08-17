@@ -3,7 +3,7 @@
 A multi-stop trip planner: add locations, get the shortest visiting order automatically
 (TSP), see it on a live map, and get real distance/time for driving, walking, or cycling —
 all on **free, keyless APIs** (plus one optional free key for real road routing).
-
+ 
 This build focuses on the **map + planner core** of the original spec. Auth, a database, 
 AI itinerary generation, and real-time collaboration are intentionally not included yet —
 see [What's not built yet](#whats-not-built-yet) for why and how to add them. 
