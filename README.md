@@ -27,6 +27,7 @@ see [What's not built yet](#whats-not-built-yet) for why and how to add them.
 - **Save trips locally** and reload them later (no account needed — see note below)
 - **Dark/light/system theme**, responsive layout
 
+
 ## Free APIs used
 
 | Purpose | Service | Key required? |
