@@ -10,7 +10,7 @@ see [What's not built yet](#whats-not-built-yet) for why and how to add them.
   
 ## Features implemented
 
-- **Add unlimited stops** by search (autocomplete) or current GPS location
+- **Add unlimited stops** by search (autocomplete) or current GPS location 
 - **Route optimization**: nearest-neighbor + 2-opt TSP heuristic over a real distance
   matrix, with an optional round-trip toggle
 - **Three travel profiles**: driving, walking, cycling — each re-optimizes with real
